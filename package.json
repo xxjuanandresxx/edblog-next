@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "ed-grid": "^3.0.2",
+    "edteam-style-guides": "0.0.79",
     "next": "10.0.6",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "sass": "^1.32.6"
   }
 }
