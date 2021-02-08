@@ -10,7 +10,7 @@ export default class MyDocument extends Document {
     return (
       <Html lang="es">
         <Head />
-        <body>
+        <body className="ed-grid">
           <Main />
           <NextScript />
         </body>
