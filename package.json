@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "ed-grid": "^3.0.2",
     "edteam-style-guides": "0.0.79",
     "next": "10.0.6",
