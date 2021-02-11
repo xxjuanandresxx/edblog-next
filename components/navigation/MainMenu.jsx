@@ -10,7 +10,7 @@ function toggleMenu() {
 export default function MainMenu() {
   return (
     <div className="s-grid-1 lg-cols-3 s-cross-center s-main-end header-links">
-      <nav className="show main-menu" ref={menu}>
+      <nav className="main-menu" ref={menu}>
         <ul>
           <li><Link href="/">Home</Link></li>
           <li><Link href="/about">About</Link></li>
